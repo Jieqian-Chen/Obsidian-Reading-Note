@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-reading-note",
+	"name": "Reading Note",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "Jieqian Chen",
+	"authorUrl": "https://github.com/Jieqian-Chen",
+	"fundingUrl": "hhttps://github.com/Jieqian-Chen/Obsidian-Reading-Note",
 	"isDesktopOnly": false
 }
