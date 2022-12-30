@@ -1,4 +1,4 @@
-# Obsidian Sample Plugin
+# Obsidian Reading Note
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
