@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-reading-note",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is a Reading Note plugin for Obsidian.https://github.com/Jieqian-Chen/Obsidian-Reading-Note",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

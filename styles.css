@@ -7,4 +7,6 @@ If your plugin does not need CSS, delete this file.
 
 */
 
-
+div {
+    --icon-size: 20px;
+}

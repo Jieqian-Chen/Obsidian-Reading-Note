@@ -1,5 +1,7 @@
 # Obsidian Reading Note
 
+Read this site to get more information: https://marcus.se.net/obsidian-plugin-docs/
+
 This is a sample plugin for Obsidian (https://obsidian.md).
 
 This project uses Typescript to provide type checking and documentation.
